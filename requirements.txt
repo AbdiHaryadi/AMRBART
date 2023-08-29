@@ -3,7 +3,7 @@ h5py-cache
 configargparse
 sacrebleu
 rouge-score
-datasets==2.4.0
+datasets
 transformers
 nltk
 cached_property
